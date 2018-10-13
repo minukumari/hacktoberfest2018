@@ -1106,3 +1106,8 @@ Place: DKI Jakarta, Indonesia<br/>
 About: Information Technology Student<br/>
 Programming Language: C++, Java<br/>
 Email: alvintandiardi@gmail.com<br/>
+
+Name: Minu Kumari<br/>
+Place: New Delhi<br/>
+About: Student<br/>
+Programming Language: C, C++, HTML, CSS, JavaScript, Python<br/>
